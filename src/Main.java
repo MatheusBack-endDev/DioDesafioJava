@@ -28,6 +28,5 @@ public class Main {
                 "sua agência é %s , conta %d " +
                 "e seu saldo %f já está disponível para saque", nomeCliente, agencia, numeroConta, saldo);
 
-//        System.out.println(STR."Olá \{nomeCliente} , obrigado por criar uma conta em nosso banco, sua agência é \{agencia}, conta \{numeroConta} e seu saldo \{saldo} já está disponível para saque");
     }
 }
